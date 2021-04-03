@@ -1,0 +1,37 @@
+https://www.youtube.com/watch?v=Wdmi4k7sFzU&ab_channel=LaithHarb
+
+$ node --version
+v10.14.1
+$ nvm use 14
+Now using node v14.15.4 (npm v6.14.10)
+$ npx create-nuxt-app Client
+
+create-nuxt-app v3.6.0
+✨  Generating Nuxt.js project in Client
+? Project name: Client
+? Programming language: JavaScript
+? Package manager: Npm
+? UI framework: Bootstrap Vue
+? Nuxt.js modules: Axios - Promise based HTTP client
+? Linting tools: ESLint
+? Testing framework: Jest
+? Rendering mode: Universal (SSR / SSG)
+? Deployment target: Server (Node.js hosting)
+? Development tools: jsconfig.json (Recommended for VS Code if you're not using typescript)
+? Continuous integration: None
+? Version control system: Git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
